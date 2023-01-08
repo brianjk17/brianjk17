@@ -4,7 +4,7 @@ I'm a Software Engineering Student. Currently exploring the new technologies, fr
 
 ### Experience
 
-* ![F-Secure Badge](https://img.shields.io/badge/F--Secure-00BAFF?logo=fsecure&logoColor=fff&style=for-the-badge) F-Secure Software Engineer Intern for the R&D Team. I did a 4 month internship program in August 2022 to November 2022, I assisted in the migration of the products using docker, had a hands-on experience on the testing side of the products, I conducted the manual tests and also created test automations using robot framework for F-Secure's products.
+* ![F-Secure Badge](https://img.shields.io/badge/F--Secure-00BAFF?logo=fsecure&logoColor=fff&style=for-the-badge) F-Secure Software Engineer Intern for the R&D Backend Team. I did a 4 month internship program in August 2022 to November 2022, I assisted in the migration of the products using docker, had a hands-on experience on the testing side of the products, I conducted the manual tests and also created test automations using robot framework for F-Secure's products.
 
 ### Skills
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Programming Languages***
