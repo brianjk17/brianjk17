@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Brian
 
 I'm a Software Engineering Student. Currently exploring the new technologies, frameworks to libaries, and new coding languages.
+Currently a web2 developer excited to be diving into the world of Web 3! 
+Ready to explore the decentralized future and all the possibilities it brings 🚀
 
 ### Experience
 
