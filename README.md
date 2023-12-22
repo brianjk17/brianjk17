@@ -1,12 +1,27 @@
 ### Hi there 👋 My name is Brian
 
-I'm a Software Engineering Student. Currently exploring the new technologies, frameworks to libaries, and new coding languages.
-Currently a web2 developer excited to be diving into the world of Web 3! 
-Ready to explore the decentralized future and all the possibilities it brings 🚀
+I'm a Software Engineering Student. Always exploring new technologies, frameworks, libaries, and coding languages.
+Currently a webdev who's been joining hackathons to dive into the world of Web3! Exploring the decentralized future and all the possibilities it brings 🚀
 
-### Experience
+### Projects
+**Footy Stars**, an On-Chain Football Manager Game with a Provable Simulation ZKML
+* [About](https://ethglobal.com/showcase/footy-stars-zw8ug)
+* [Github](https://github.com/Footy-Stars)
+ 
+**Ethermain**, addresses the vulnerabilities of traditional DNS by using Ethereum smart contracts for domain integrity and ownership
+* [About](https://devfolio.co/projects/ethermain-b1b8)
+
+
+### Work Experience
 
 * ![F-Secure Badge](https://img.shields.io/badge/F--Secure-00BAFF?logo=fsecure&logoColor=fff&style=for-the-badge) F-Secure Software Engineer Intern for the R&D Backend Team. I did a 4 month internship program in August 2022 to November 2022, I assisted in the migration of the products using docker, had a hands-on experience on the testing side of the products, I conducted the manual tests and also created test automations using robot framework for F-Secure's products.
+
+### Hackathons
+* ETH KL Minihack 2023
+* ETH Seoul 2023
+* ETH Singapore 2023
+* ETH KL 2023
+* ETH Global Istanbul 2023 (Finalist)
 
 ### Skills
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Programming Languages***
@@ -53,7 +68,9 @@ Ready to explore the decentralized future and all the possibilities it brings �
  ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge)
 
 ### Contact me through
-* ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge) [Brian J.K.](https://bit.ly/3LAHeKY)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
+ [Brian J.K.](https://bit.ly/3LAHeKY)
+
 <!--
 **brianjk17/brianjk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
