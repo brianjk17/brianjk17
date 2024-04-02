@@ -11,7 +11,6 @@ Currently a webdev who's been joining hackathons to dive into the world of Web3!
 **2. Ethermain**, addresses the vulnerabilities of traditional DNS by using Ethereum smart contracts for domain integrity and ownership
 * [About](https://devfolio.co/projects/ethermain-b1b8)
 
-<br/>
 ### Work Experience
 
 * ![F-Secure Badge](https://img.shields.io/badge/F--Secure-00BAFF?logo=fsecure&logoColor=fff&style=for-the-badge) F-Secure Software Engineer Intern for the R&D Backend Team. I did a 4 month internship program in August 2022 to November 2022, I assisted in the migration of the products using docker, had a hands-on experience on the testing side of the products, I conducted the manual tests and also created test automations using robot framework for F-Secure's products.
