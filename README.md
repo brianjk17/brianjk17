@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Brian
 
-I'm a Software Engineering Student. Always exploring new technologies, frameworks, libaries, and coding languages.
+Junior Frontend Engineer @LiquidX Studio. Always exploring new technologies, frameworks, libaries, and coding languages.
 Currently a webdev who's been joining hackathons to dive into the world of Web3! Exploring the decentralized future and all the possibilities it brings 🚀
 
 ### Projects
