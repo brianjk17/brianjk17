@@ -21,6 +21,9 @@ Currently a webdev who's been joining hackathons to dive into the world of Web3!
 * ETH Singapore 2023
 * ETH KL 2023
 * ETH Global Istanbul 2023 (Finalist)
+* ETH Global Sydney 2024
+* ETH Global Singapore 2024
+* ETH Global Bangkok 2024
 
 ### Skills
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Programming Languages***
