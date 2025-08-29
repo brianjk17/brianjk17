@@ -41,7 +41,7 @@ Currently a webdev who's been joining hackathons to dive into the world of Web3!
 * ETH Seoul 2023
 * ETH Singapore 2023
 * ETH KL 2023
-* ETH Global Istanbul 2023 (https://ethglobal.com/showcase/footy-stars-zw8ug)(https://github.com/Footy-Stars)
+* ETH Global Istanbul 2023 (https://ethglobal.com/showcase/footy-stars-zw8ug) (https://github.com/Footy-Stars)
 * ETH Global Sydney 2024 (https://ethglobal.com/showcase/fiatx-drggu)
 * ETH Global Singapore 2024 (https://ethglobal.com/showcase/reversifi-ufprn)
 * ETH Global Bangkok 2024 https://ethglobal.com/showcase/predpump-q8gxc\
