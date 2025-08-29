@@ -2,8 +2,19 @@
 
 Software Engineer @ MON CO. (formerly LiquidX Studio). Always exploring new technologies, frameworks, libaries, and coding languages.
 Currently a webdev who's been joining hackathons to dive into the world of Web3! Exploring the decentralized future and all the possibilities it brings 🚀
+### Contact me through
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
+ [Brian J.K.](https://bit.ly/3LAHeKY)
+ 
+## 🌟 What I'm Working On
 
-### Projects
+🔭 **Currently:** Building enterprise-grade applications at Mon Co.  
+🌱 **Learning:** Advanced system design patterns, microservices architecture  
+👯 **Open to:** Collaboration on innovative open-source projects  
+💬 **Ask me about:** Full-stack development, system architecture, performance optimization  
+
+
+### Project Highlights 
 **1. Footy Stars**, an On-Chain Football Manager Game with a Provable Simulation ZKML
 * [About](https://ethglobal.com/showcase/footy-stars-zw8ug)
 * [Github](https://github.com/Footy-Stars)
@@ -12,18 +23,28 @@ Currently a webdev who's been joining hackathons to dive into the world of Web3!
 * [About](https://devfolio.co/projects/ethermain-b1b8)
 
 ### Work Experience
+**Software Engineer @ Mon Co.** *(March 2024 - Present)*
+- Building scalable backend systems and responsive frontend applications
+- Architecting microservices with AWS cloud infrastructure
+- Leading development of platforms handling millions in transaction volume
 
-* ![F-Secure Badge](https://img.shields.io/badge/F--Secure-00BAFF?logo=fsecure&logoColor=fff&style=for-the-badge) F-Secure Software Engineer Intern for the R&D Backend Team. I did a 4 month internship program in August 2022 to November 2022, I assisted in the migration of the products using docker, had a hands-on experience on the testing side of the products, I conducted the manual tests and also created test automations using robot framework for F-Secure's products.
+
+![F-Secure Badge](https://img.shields.io/badge/F--Secure-00BAFF?logo=fsecure&logoColor=fff&style=for-the-badge)
+
+**Software Engineer Intern @ F-Secure** *(Aug 2022 - Nov 2022)*
+
+- Contributed to backend infrastructure migration and testing automation
+- Developed Python-based testing frameworks improving coverage by 40%
 
 ### Hackathons
 * ETH KL Minihack 2023
 * ETH Seoul 2023
 * ETH Singapore 2023
 * ETH KL 2023
-* ETH Global Istanbul 2023 (Finalist)
-* ETH Global Sydney 2024
-* ETH Global Singapore 2024
-* ETH Global Bangkok 2024
+* ETH Global Istanbul 2023 (https://ethglobal.com/showcase/footy-stars-zw8ug)(https://github.com/Footy-Stars)
+* ETH Global Sydney 2024 (https://ethglobal.com/showcase/fiatx-drggu)
+* ETH Global Singapore 2024 (https://ethglobal.com/showcase/reversifi-ufprn)
+* ETH Global Bangkok 2024 https://ethglobal.com/showcase/predpump-q8gxc\
 
 ### Skills
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Programming Languages***
@@ -84,10 +105,6 @@ Currently a webdev who's been joining hackathons to dive into the world of Web3!
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png"> | Ethereum |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chainlink.png"> | Chainlink |
 
-
-### Contact me through
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
- [Brian J.K.](https://bit.ly/3LAHeKY)
 
 <!--
 **brianjk17/brianjk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
